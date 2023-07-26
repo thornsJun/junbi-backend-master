@@ -6,18 +6,14 @@
 
 后端技术选型：
 
-1、Spring Boot
+Spring Boot
 
-2、MySQL 数据库
+MySQL 数据库
 
-3、MyBatis Plus 数据访问框架
+消息队列（RabbitMQ）
 
-4、消息队列（RabbitMQ）
+AI 能力（Open AI 接口开发 / 第三方提供现成的 AI 接口）
 
-5、AI 能力（Open AI 接口开发 / 星球提供现成的 AI 接口）
+Excel 的上传和数据的解析（Easy Excel）
 
-6、Excel 的上传和数据的解析（Easy Excel）
-
-7、Swagger + Knife4j 项目接口文档
-
-8、Hutool 工具库
+Hutool 工具库
