@@ -10,7 +10,7 @@ MySQL
 
 RabbitMQ
 
-AI 能力
+AIGC
 
-Excel 的上传和数据的解析（Easy Excel）
+Easy Excel
 
